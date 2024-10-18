@@ -1,6 +1,6 @@
-# 💫 About Me:
+<!--# 💫 About Me:
 🌱 I’m currently learning Docker and Spring Boot.<br>👨‍💻 You can find my portfolio at https://www.robertlocskai.hu<br>📫 You can reach me at robertlocskai@gmail.com<br>📄 And you can learn about my experiences here https://www.robertlocskai.hu/robert_locskai_cv_eng_public.pdf  !
-
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robertlocskai) 
